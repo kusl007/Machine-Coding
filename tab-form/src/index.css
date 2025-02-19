@@ -1,0 +1,25 @@
+*{
+  color:black;
+
+}
+
+.heading-container{
+  display: flex;
+ justify-content: center;
+}
+
+.heading{
+  padding:10px ;
+  border:1px solid black;
+  cursor: pointer;
+
+}
+.main-content{
+  padding: 20px;
+  border:1px solid black;
+  min-height: 50vh;
+ 
+}
+.error{
+  color:red;
+}
