@@ -1,0 +1,53 @@
+[{  
+    "id":1,
+    "name":"Public",
+    "isFolder":true,
+    "children":[
+        {
+    "id":2,
+
+            "name":"vite.svg",
+            "isFolder":false
+        }]
+
+},
+{
+    "id":3,
+
+    "name":"src",
+    "isFolder":true,
+    "children":[
+    {
+            "id":4,
+            "name":"components",
+            "isFolder":true,
+            "children":[
+                {
+                    "id":5,
+                    "name":"component 1",
+                    "isFolder":false
+                },
+                {
+                    "id":6,
+                    "name":"component 2",
+                    "isFolder":false
+                }
+            ]
+        },
+        {
+            "id":7,
+            "name":"package.json",
+            "isFolder":false
+        },
+        {
+            "id":8,
+            "name":".gitignore",
+            "isFolder":false
+        }]
+
+},
+{
+    "id":9,
+    "name":"data.json",
+    "isFolder":false
+}]
